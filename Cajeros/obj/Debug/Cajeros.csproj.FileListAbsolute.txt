@@ -1,0 +1,7 @@
+C:\Users\mañana\source\repos\Cajeros\Cajeros\bin\Debug\Cajeros.exe.config
+C:\Users\mañana\source\repos\Cajeros\Cajeros\bin\Debug\Cajeros.exe
+C:\Users\mañana\source\repos\Cajeros\Cajeros\bin\Debug\Cajeros.pdb
+C:\Users\mañana\source\repos\Cajeros\Cajeros\obj\Debug\Cajeros.csprojAssemblyReference.cache
+C:\Users\mañana\source\repos\Cajeros\Cajeros\obj\Debug\Cajeros.csproj.CoreCompileInputs.cache
+C:\Users\mañana\source\repos\Cajeros\Cajeros\obj\Debug\Cajeros.exe
+C:\Users\mañana\source\repos\Cajeros\Cajeros\obj\Debug\Cajeros.pdb
